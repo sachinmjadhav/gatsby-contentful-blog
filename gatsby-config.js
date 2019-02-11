@@ -6,10 +6,10 @@ if (process.env.NODE_ENV !== 'production') {
 
 module.exports = {
 	siteMetadata: {
-		title: `Sachin Jadhav Blog `,
+		title: `Sachin Jadhav Blog`,
 		author: `Sachin Jadhav`,
 		description: `A test blog using Gatsby and Contentful`,
-		siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+		siteUrl: ``,
 		social: {
 			twitter: `sachinmjadhav`
 		}
